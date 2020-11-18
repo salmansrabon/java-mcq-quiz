@@ -1,0 +1,112 @@
+{
+	"MCQ": [
+		{
+			"ques": "When Sheikh Mujib died?",
+			"option1": "1972",
+			"option2": "1973",
+			"option3": "1974",
+			"option4": "1975",
+			"ans": "d"
+
+		},
+		{
+			"ques": "When Corona is first discovered?",
+			"option1": "Nov 1, 2019",
+			"option2": "Nov 30, 2019",
+			"option3": "Dec 31, 2019",
+			"option4": "Jan 1, 2020",
+			"ans": "c"
+
+		},
+		{
+			"ques": "What is the correct port for 'https'?",
+			"option1": "80",
+			"option2": "443",
+			"option3": "8080",
+			"option4": "25",
+			"ans": "b"
+
+		},
+		{
+			"ques": "When Narendra Modi became Prime Minister?",
+			"option1": "2012",
+			"option2": "2013",
+			"option3": "2014",
+			"option4": "2015",
+			"ans": "c"
+
+		},
+		{
+			"ques": "When Bangabondhu satellite launched?",
+			"option1": "May 12, 2018",
+			"option2": "Jun 12, 2018",
+			"option3": "May 15, 2018",
+			"option4": "Jun 15, 2018",
+			"ans": "a"
+
+		},
+		{
+			"ques": "A technique used by codes to convert an analog signal into a digital bit stream is known as",
+			"option1": "Pulse stretcher",
+			"option2": "Pulse code modulation",
+			"option3": "Query processing",
+			"option4": "Queue management",
+			"ans": "b"
+
+		},
+		{
+			"ques": "A program that converts computer data into some code system other than the normal one is known as",
+			"option1": "Simulation",
+			"option2": "Emulator",
+			"option3": "Encoder",
+			"option4": "Coding",
+			"ans": "c"
+
+		},
+		{
+			"ques": "What is used by a hybrid computer to convert digital signals from a computer into analog signals",
+			"option1": "Modulator",
+			"option2": "Demodulator",
+			"option3": "Router",
+			"option4": "Modem",
+			"ans": "d"
+
+		},
+		{
+			"ques": "Each of data files has a _____ that describe the way the data is stored in the file",
+			"option1": "Records",
+			"option2": "File structure",
+			"option3": "Fields",
+			"option4": "Database",
+			"ans": "b"
+
+		},
+		{
+			"ques": "What is the meaning of 'SQL'",
+			"option1": "Standard Query Language",
+			"option2": "Standard Queeing Language",
+			"option3": "System Query Language",
+			"option4": "Structured Query Language",
+			"ans": "d"
+
+		},
+		{
+			"ques": " Which one of these lists contains only Java programming language keywords?",
+			"option1": "class, if, void, long, Int, continue",
+			"option2": "goto, instanceof, native, finally, default, throws",
+			"option3": "try, virtual, throw, final, volatile, transient",
+			"option4": "byte, break, assert, switch, include",
+			"ans": "b"
+
+		},
+		{
+			"ques": "Which will legally declare, construct, and initialize an array?",
+			"option1": "int [] myList = {\"1\", \"2\", \"3\"};",
+			"option2": "int [] myList = (5, 8, 2);",
+			"option3": "int myList [] [] = {4,9,7,0};",
+			"option4": "int myList [] = {4, 3, 7};",
+			"ans": "d"
+
+		}
+	]
+}
